@@ -1,4 +1,4 @@
-# Affection
+# TabTalk
 
 Clean, lean, two-person video calling in the browser. WebRTC for media, Socket.IO for signaling. One tab starts, the other answers.
 
